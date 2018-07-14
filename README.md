@@ -45,3 +45,7 @@ We use different ways to build this language. In the first phase we can adopt wo
 * Clear identification of numbers.
 * The use of punctuation marks and other special characters should be clearly defined.
 
+## Strategy
+* Create a wortlist with only one (proxy) word for each word type (noun, preposition, trans verb, intr. verb, ...) 
+* Create gramars rules and program the parser(s). Beginning with the type of sentences - see also https://github.com/jan-Lope/Toki_Pona-Parser/blob/master/toki-pona-grammar-rules.pro
+
